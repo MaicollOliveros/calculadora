@@ -1,2 +1,0 @@
-# calculadora
-Parcial programacion web
